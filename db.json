@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Caller": [
+    { "id": 1, "name": "Saman", "sessionId": "a21f5316-835d-494a-ba61-c5d7b2c5c4d5"},
+    { "id": 2, "name": "Kamal", "sessionId": "d0eaf79f-845f-4102-929e-a74ec531e94f"},
+    { "id": 3, "name": "Nimal", "sessionId": "2dc4a6a9-6326-403c-97df-2d48abc5e393"}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "sanura"
   }
 }
