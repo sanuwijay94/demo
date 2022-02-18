@@ -4,6 +4,11 @@
     { "id": 2, "name": "Dave", "sessionId": "d0eaf79f-845f-4102-929e-a74ec531e94f"},
     { "id": 3, "name": "Randy", "sessionId": "2dc4a6a9-6326-403c-97df-2d48abc5e393"}
   ],
+  "Agents": [
+    { "id": 1, "name": "Mike", "bu": "CallCentre"},
+    { "id": 2, "name": "Shane", "bu": "CardCentre"},
+    { "id": 3, "name": "Mathew", "bu": "Recovery"}
+  ],
   "profile": {
     "name": "sanura"
   }
