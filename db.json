@@ -7,7 +7,10 @@
   "Agents": [
     { "id": 1, "name": "Mike", "bu": "CallCentre"},
     { "id": 2, "name": "Shane", "bu": "CardCentre"},
-    { "id": 3, "name": "Mathew", "bu": "Recovery"}
+    { "id": 3, "name": "Mathew", "bu": "Recovery"},
+    { "id": 4, "name": "Brandon", "bu": "CallCentre"},
+    { "id": 5, "name": "Steven", "bu": "CallCentre"},
+    { "id": 6, "name": "Kane", "bu": "CardCentre"}
   ],
   "profile": {
     "name": "sanura"
